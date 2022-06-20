@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render correcly 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="https://pps.whatsapp.net/v/t61.24694-24/236690053_424819545992935_4236778729403962088_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AVym6SKAoAn50w0yvVlWhnq_fj6DNkHLbKQ2B9RZQyS6rQ&oe=62C0B48B"
+  />
+</div>
+`;
+
+exports[`it should render correcly without image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="https://pps.whatsapp.net"
+  />
+</div>
+`;

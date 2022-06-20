@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render correcly 1`] = `
+<div
+  className="buttonsContainer undefined"
+>
+  <button
+    className="buttonMinus"
+    onClick={[Function]}
+  >
+     
+    -
+     
+  </button>
+  <div
+    className="countLabel"
+  >
+     
+     
+  </div>
+  <button
+    className="buttonAdd false "
+    onClick={[Function]}
+  >
+     
+    +
+     
+  </button>
+</div>
+`;
