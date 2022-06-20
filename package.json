@@ -3,6 +3,10 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuisMelDev/product-card-course-rp"
+  },
   "files": [
     "dist",
     "src"
@@ -60,5 +64,11 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.7.4"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "course",
+    "react pro"
+  ]
 }
